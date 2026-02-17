@@ -28,5 +28,5 @@ To run or contribute to this project, ensure that you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/spotify-genre-analysis.git
+   git clone https://github.com/amithhhh/spotify-genre-analysis.git
    cd spotify-genre-analysis
